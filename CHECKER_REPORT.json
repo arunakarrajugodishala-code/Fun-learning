@@ -1,0 +1,2553 @@
+{
+  "schema": "academy-checker-report-v1",
+  "checkerVersion": "checker-1.1.0",
+  "checkedAt": "2026-10-26T14:43:58.222Z",
+  "stats": {
+    "lessons": 100,
+    "questions": 1427,
+    "arithmeticChecked": 145,
+    "arithmeticUnsupported": 1282,
+    "lessonsAwaitingReview": 100,
+    "groups": 143,
+    "missingGroups": 33,
+    "partialGroups": 110
+  },
+  "technicalPass": true,
+  "accuracyCertified": false,
+  "fullCurriculumCertified": false,
+  "issues": [
+    {
+      "id": "REVIEW:place3",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "place3",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:place4",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "place4",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:place5",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "place5",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:place6",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "place6",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:addition",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "addition",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:times3",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "times3",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:times4",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "times4",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:times5",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "times5",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:times6",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "times6",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:fractions",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "fractions",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:decimals",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "decimals",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:measure",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "measure",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:area",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "area",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:time",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "time",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:money",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "money",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:angles",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "angles",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:statistics",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "statistics",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:percent",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "percent",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:ratio",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "ratio",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:algebra",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "algebra",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:multiply",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "multiply",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:fractioncalc",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "fractioncalc",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:order",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "order",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:reading",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "reading",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:wordclass",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "wordclass",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:punctuation",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "punctuation",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:conjunction",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "conjunction",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:apostrophe",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "apostrophe",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:tense",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "tense",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:spelling",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "spelling",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:paragraph",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "paragraph",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:relative",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "relative",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:plants",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "plants",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:skeleton",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "skeleton",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:rocks",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "rocks",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:light",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "light",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:forces",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "forces",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:states",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "states",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:digestion",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "digestion",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:sound",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "sound",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:electricity",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "electricity",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:habitats",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "habitats",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:materials",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "materials",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:space",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "space",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:circulation",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "circulation",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:evolution",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "evolution",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:history",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "history",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:geography",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "geography",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:computing",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "computing",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:art",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "art",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:dt",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "dt",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:music",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "music",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:pe",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "pe",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:french",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "french",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:re",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "re",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:pshe",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "pshe",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:seedstory",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "seedstory",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:libraryreport",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "libraryreport",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:symmetry_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "symmetry_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:coordinates_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "coordinates_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:negative_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "negative_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:poetry_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "poetry_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:speech_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "speech_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:nonfiction_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "nonfiction_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:persuasion_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "persuasion_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:science_enquiry_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "science_enquiry_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:light_year6_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "light_year6_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:circuits_year6_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "circuits_year6_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:history_change_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "history_change_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:history_periods_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "history_periods_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:rivers_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "rivers_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:climate_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "climate_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:computing_repeat_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "computing_repeat_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:computing_data_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "computing_data_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:art_colour_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "art_colour_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:art_collage_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "art_collage_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:dt_structures_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "dt_structures_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:dt_food_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "dt_food_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:music_pitch_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "music_pitch_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:music_listening_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "music_listening_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:pe_games_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "pe_games_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:pe_sequences_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "pe_sequences_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:french_numbers_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "french_numbers_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:french_colours_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "french_colours_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:re_questions_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "re_questions_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:re_community_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "re_community_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:pshe_online_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "pshe_online_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:pshe_choices_more",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "pshe_choices_more",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:count3_full",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "count3_full",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:mental3_full",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "mental3_full",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:product3_full",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "product3_full",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:tenths3_full",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "tenths3_full",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:fraction3_full",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "fraction3_full",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:perimeter3_full",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "perimeter3_full",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:shape3_full",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "shape3_full",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:calendar3_full",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "calendar3_full",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:transcription3_full",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "transcription3_full",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:speaking3_full",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "speaking3_full",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:water3_full",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "water3_full",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "REVIEW:magnet3_full",
+      "severity": "review",
+      "code": "REVIEW",
+      "entity": "magnet3_full",
+      "message": "Meaning, answer logic, age suitability and source alignment need human review."
+    },
+    {
+      "id": "EXAM_POLICY:admissions",
+      "severity": "review",
+      "code": "EXAM_POLICY",
+      "entity": "admissions",
+      "message": "Recheck the target entry-year admissions policy. Practice drills do not certify exam-format or admission readiness."
+    },
+    {
+      "id": "BANK_REVIEW:banks",
+      "severity": "review",
+      "code": "BANK_REVIEW",
+      "entity": "banks",
+      "message": "Bank facts, grammar and explanations have not received independent semantic certification. Structural and arithmetic checks cover only specified cases."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-3-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-3-1",
+      "message": "Three-digit numbers: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-3-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-3-2",
+      "message": "Mental and written calculations: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-3-3",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-3-3",
+      "message": "Tables and scaling: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-3-4",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-3-4",
+      "message": "Two-digit multiplication: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-3-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-3-5",
+      "message": "Tenths: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-3-6",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-3-6",
+      "message": "Fraction relationships: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-3-7",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-3-7",
+      "message": "Length, mass and capacity: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-3-8",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-3-8",
+      "message": "Perimeter: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-3-9",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-3-9",
+      "message": "Money: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-3-10",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-3-10",
+      "message": "Clocks and calendars: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-3-11",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-3-11",
+      "message": "Shapes, turns and lines: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-3-12",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-3-12",
+      "message": "Charts and comparisons: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-4-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-4-1",
+      "message": "Four-digit numbers: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-4-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-4-2",
+      "message": "Calculation and checking: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-4-3",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-4-3",
+      "message": "Tables and written methods: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-4-4",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-4-4",
+      "message": "Fractions and decimals: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-4-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-4-5",
+      "message": "Measures and conversions: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-4-6",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-4-6",
+      "message": "Perimeter and area: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-4-7",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-4-7",
+      "message": "Money and time: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-4-8",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-4-8",
+      "message": "Shapes and symmetry: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-4-9",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-4-9",
+      "message": "Coordinates and movement: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-4-10",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-4-10",
+      "message": "Data and graphs: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-5-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-5-1",
+      "message": "Numbers to a million: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-5-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-5-2",
+      "message": "Written calculations: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:maths-mathematics-5-3",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "maths-mathematics-5-3",
+      "message": "Factors, multiples and primes: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-5-4",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-5-4",
+      "message": "Fractions and mixed numbers: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-5-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-5-5",
+      "message": "Decimals and percentages: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-5-6",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-5-6",
+      "message": "Measures and conversions: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-5-7",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-5-7",
+      "message": "Area and volume: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-5-8",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-5-8",
+      "message": "Angles and solids: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-5-9",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-5-9",
+      "message": "Reflection and translation: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-5-10",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-5-10",
+      "message": "Tables and line graphs: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-6-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-6-1",
+      "message": "Numbers to ten million: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-6-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-6-2",
+      "message": "Four operations: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-6-3",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-6-3",
+      "message": "Fractions, decimals and percentages: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-6-4",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-6-4",
+      "message": "Ratio and proportion: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-6-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-6-5",
+      "message": "Algebra: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-6-6",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-6-6",
+      "message": "Measures and conversions: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-6-7",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-6-7",
+      "message": "Area and volume: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-6-8",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-6-8",
+      "message": "Shape and angle reasoning: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:maths-mathematics-6-9",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "maths-mathematics-6-9",
+      "message": "Four-quadrant coordinates: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:maths-mathematics-6-10",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "maths-mathematics-6-10",
+      "message": "Charts and averages: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-34-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-34-1",
+      "message": "Word reading and vocabulary: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-34-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-34-2",
+      "message": "Exception words and spelling appendix: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:english-english-34-3",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "english-english-34-3",
+      "message": "Reading range and whole books: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-34-4",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-34-4",
+      "message": "Inference and prediction: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-34-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-34-5",
+      "message": "Themes and conventions: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-34-6",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-34-6",
+      "message": "Poetry and drama: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-34-7",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-34-7",
+      "message": "Reference reading: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-34-8",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-34-8",
+      "message": "Handwriting and transcription: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-34-9",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-34-9",
+      "message": "Planning, drafting and editing: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-34-10",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-34-10",
+      "message": "Sentences and cohesion: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-34-11",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-34-11",
+      "message": "Speech and possession: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-34-12",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-34-12",
+      "message": "Year-specific grammar appendix: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-56-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-56-1",
+      "message": "Advanced word reading: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:english-english-56-2",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "english-english-56-2",
+      "message": "Spelling appendix progression: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:english-english-56-3",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "english-english-56-3",
+      "message": "Wide reading and recommendations: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-56-4",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-56-4",
+      "message": "Inference and textual evidence: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:english-english-56-5",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "english-english-56-5",
+      "message": "Theme and text comparison: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-56-6",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-56-6",
+      "message": "Performance and discussion: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-56-7",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-56-7",
+      "message": "Fact, opinion and language effects: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-56-8",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-56-8",
+      "message": "Research and summarising: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-56-9",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-56-9",
+      "message": "Writing for audience: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-56-10",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-56-10",
+      "message": "Editing and cohesive structure: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-56-11",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-56-11",
+      "message": "Formal grammar and punctuation: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:english-english-56-12",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "english-english-56-12",
+      "message": "Fluent handwriting: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-3456-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-3456-1",
+      "message": "Listening, explaining and discussion: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:english-english-3456-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "english-english-3456-2",
+      "message": "Presentation, debate and drama: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-3-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-3-1",
+      "message": "Plant functions and growth: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-3-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-3-2",
+      "message": "Nutrition and skeletons: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-3-3",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-3-3",
+      "message": "Rocks, fossils and soils: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-3-4",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-3-4",
+      "message": "Light and shadows: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-3-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-3-5",
+      "message": "Forces and magnets: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-3-6",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-3-6",
+      "message": "Practical enquiry and evidence: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-4-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-4-1",
+      "message": "Habitats and classification: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-4-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-4-2",
+      "message": "Digestion, teeth and food chains: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-4-3",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-4-3",
+      "message": "States and water cycle: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-4-4",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-4-4",
+      "message": "Sound: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-4-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-4-5",
+      "message": "Electricity: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-4-6",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-4-6",
+      "message": "Practical enquiry and evidence: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-5-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-5-1",
+      "message": "Life cycles and reproduction: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:science-science-5-2",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "science-science-5-2",
+      "message": "Human development: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-5-3",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-5-3",
+      "message": "Materials and changes: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-5-4",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-5-4",
+      "message": "Earth and space: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-5-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-5-5",
+      "message": "Forces: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-5-6",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-5-6",
+      "message": "Practical enquiry and evidence: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-6-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-6-1",
+      "message": "Classification: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-6-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-6-2",
+      "message": "Circulation and healthy choices: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-6-3",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-6-3",
+      "message": "Evolution and inheritance: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-6-4",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-6-4",
+      "message": "Light: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-6-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-6-5",
+      "message": "Electricity: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:science-science-6-6",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "science-science-6-6",
+      "message": "Practical enquiry and evidence: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-history-3456-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-history-3456-1",
+      "message": "Evidence and chronology: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-history-3456-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-history-3456-2",
+      "message": "Prehistoric Britain: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-history-3456-3",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-history-3456-3",
+      "message": "Roman Britain: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-history-3456-4",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-history-3456-4",
+      "message": "Anglo-Saxons and Vikings: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-history-3456-5",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-history-3456-5",
+      "message": "Local history study: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-history-3456-6",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-history-3456-6",
+      "message": "British theme beyond 1066: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-history-3456-7",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-history-3456-7",
+      "message": "Ancient civilisation choice: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-history-3456-8",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-history-3456-8",
+      "message": "Ancient Greece: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-history-3456-9",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-history-3456-9",
+      "message": "Non-European society choice: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-geography-3456-1",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-geography-3456-1",
+      "message": "Places and regional comparisons: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-geography-3456-2",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-geography-3456-2",
+      "message": "Location and global reference lines: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-geography-3456-3",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-geography-3456-3",
+      "message": "Physical processes: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-geography-3456-4",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-geography-3456-4",
+      "message": "Settlement, trade and resources: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-geography-3456-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-geography-3456-5",
+      "message": "Maps, fieldwork and evidence: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-computing-3456-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-computing-3456-1",
+      "message": "Programming, loops and decisions: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-computing-3456-2",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-computing-3456-2",
+      "message": "Variables and physical systems: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-computing-3456-3",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-computing-3456-3",
+      "message": "Networks, internet and search: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-computing-3456-4",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-computing-3456-4",
+      "message": "Creating and evaluating digital work: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-computing-3456-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-computing-3456-5",
+      "message": "Online safety and reporting: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-artdesign-3456-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-artdesign-3456-1",
+      "message": "Sketchbook development: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-artdesign-3456-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-artdesign-3456-2",
+      "message": "Drawing and painting: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-artdesign-3456-3",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-artdesign-3456-3",
+      "message": "Sculpture and other media: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-artdesign-3456-4",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-artdesign-3456-4",
+      "message": "Artists and design contexts: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-artdesign-3456-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-artdesign-3456-5",
+      "message": "Evaluating creative choices: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-designtechnology-3456-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-designtechnology-3456-1",
+      "message": "User needs and evaluation: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-designtechnology-3456-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-designtechnology-3456-2",
+      "message": "Structures and joining: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-designtechnology-3456-3",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-designtechnology-3456-3",
+      "message": "Textiles and mechanisms: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-designtechnology-3456-4",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-designtechnology-3456-4",
+      "message": "Electrical and programmed products: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-designtechnology-3456-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-designtechnology-3456-5",
+      "message": "Food and cooking: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-music-3456-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-music-3456-1",
+      "message": "Voice and instruments: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-music-3456-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-music-3456-2",
+      "message": "Improvising and composing: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-music-3456-3",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-music-3456-3",
+      "message": "Notation: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-music-3456-4",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-music-3456-4",
+      "message": "Listening and musical history: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-music-3456-5",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-music-3456-5",
+      "message": "Performance and evaluation: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-physicaleducation-3456-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-physicaleducation-3456-1",
+      "message": "Running, throwing and catching: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-physicaleducation-3456-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-physicaleducation-3456-2",
+      "message": "Team games and tactics: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-physicaleducation-3456-3",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-physicaleducation-3456-3",
+      "message": "Gymnastics and dance: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-physicaleducation-3456-4",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-physicaleducation-3456-4",
+      "message": "Outdoor challenges: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-physicaleducation-3456-5",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-physicaleducation-3456-5",
+      "message": "Swimming and water safety: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-physicaleducation-3456-6",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-physicaleducation-3456-6",
+      "message": "Evaluating movement: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-languages-3456-1",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-languages-3456-1",
+      "message": "Listening and pronunciation: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-languages-3456-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-languages-3456-2",
+      "message": "Conversation and vocabulary: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-languages-3456-3",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-languages-3456-3",
+      "message": "Reading and cultural texts: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-languages-3456-4",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-languages-3456-4",
+      "message": "Writing and grammar: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-religiouseducation-3456-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-religiouseducation-3456-1",
+      "message": "School-specific beliefs and practices: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-religiouseducation-3456-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-religiouseducation-3456-2",
+      "message": "Worldviews and respectful enquiry: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-religiouseducation-3456-3",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-religiouseducation-3456-3",
+      "message": "Full local RE sequence: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-psherelationships-3456-1",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-psherelationships-3456-1",
+      "message": "Friendship, feelings and help: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-psherelationships-3456-2",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-psherelationships-3456-2",
+      "message": "Online relationships and privacy: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "PARTIAL_TEACHING:framework-psherelationships-3456-3",
+      "severity": "gap",
+      "code": "PARTIAL_TEACHING",
+      "entity": "framework-psherelationships-3456-3",
+      "message": "Money choices: selected lessons support part of this group; full coverage is not established."
+    },
+    {
+      "id": "MISSING_TEACHING:framework-psherelationships-3456-4",
+      "severity": "gap",
+      "code": "MISSING_TEACHING",
+      "entity": "framework-psherelationships-3456-4",
+      "message": "Full school health and relationships sequence: teaching remains to be supplied and reviewed."
+    },
+    {
+      "id": "YEAR_MAPPING:maths-mathematics-5-3|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "maths-mathematics-5-3|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:maths-mathematics-6-9|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "maths-mathematics-6-9|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:english-english-34-3|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "english-english-34-3|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:english-english-34-3|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "english-english-34-3|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:english-english-56-2|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "english-english-56-2|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:english-english-56-2|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "english-english-56-2|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:english-english-56-3|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "english-english-56-3|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:english-english-56-3|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "english-english-56-3|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:english-english-56-5|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "english-english-56-5|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:english-english-56-5|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "english-english-56-5|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:english-english-56-12|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "english-english-56-12|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:english-english-56-12|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "english-english-56-12|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:science-science-5-2|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "science-science-5-2|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-3|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-3|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-3|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-3|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-3|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-3|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-3|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-3|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-4|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-4|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-4|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-4|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-4|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-4|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-4|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-4|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-5|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-5|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-5|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-5|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-5|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-5|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-5|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-5|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-6|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-6|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-6|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-6|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-6|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-6|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-6|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-6|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-7|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-7|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-7|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-7|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-7|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-7|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-7|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-7|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-8|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-8|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-8|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-8|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-8|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-8|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-8|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-8|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-9|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-9|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-9|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-9|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-9|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-9|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-history-3456-9|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-history-3456-9|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-geography-3456-1|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-geography-3456-1|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-geography-3456-1|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-geography-3456-1|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-geography-3456-1|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-geography-3456-1|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-geography-3456-1|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-geography-3456-1|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-geography-3456-2|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-geography-3456-2|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-geography-3456-2|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-geography-3456-2|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-geography-3456-2|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-geography-3456-2|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-geography-3456-2|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-geography-3456-2|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-geography-3456-4|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-geography-3456-4|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-geography-3456-4|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-geography-3456-4|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-geography-3456-4|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-geography-3456-4|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-geography-3456-4|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-geography-3456-4|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-computing-3456-2|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-computing-3456-2|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-computing-3456-2|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-computing-3456-2|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-computing-3456-2|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-computing-3456-2|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-computing-3456-2|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-computing-3456-2|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-computing-3456-3|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-computing-3456-3|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-computing-3456-3|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-computing-3456-3|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-computing-3456-3|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-computing-3456-3|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-computing-3456-3|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-computing-3456-3|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-artdesign-3456-3|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-artdesign-3456-3|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-artdesign-3456-3|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-artdesign-3456-3|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-artdesign-3456-3|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-artdesign-3456-3|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-artdesign-3456-3|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-artdesign-3456-3|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-artdesign-3456-4|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-artdesign-3456-4|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-artdesign-3456-4|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-artdesign-3456-4|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-artdesign-3456-4|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-artdesign-3456-4|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-artdesign-3456-4|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-artdesign-3456-4|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-designtechnology-3456-3|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-designtechnology-3456-3|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-designtechnology-3456-3|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-designtechnology-3456-3|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-designtechnology-3456-3|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-designtechnology-3456-3|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-designtechnology-3456-3|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-designtechnology-3456-3|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-designtechnology-3456-4|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-designtechnology-3456-4|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-designtechnology-3456-4|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-designtechnology-3456-4|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-designtechnology-3456-4|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-designtechnology-3456-4|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-designtechnology-3456-4|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-designtechnology-3456-4|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-music-3456-3|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-music-3456-3|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-music-3456-3|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-music-3456-3|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-music-3456-3|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-music-3456-3|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-music-3456-3|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-music-3456-3|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-music-3456-4|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-music-3456-4|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-music-3456-4|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-music-3456-4|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-music-3456-4|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-music-3456-4|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-music-3456-4|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-music-3456-4|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-physicaleducation-3456-4|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-physicaleducation-3456-4|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-physicaleducation-3456-4|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-physicaleducation-3456-4|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-physicaleducation-3456-4|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-physicaleducation-3456-4|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-physicaleducation-3456-4|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-physicaleducation-3456-4|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-physicaleducation-3456-5|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-physicaleducation-3456-5|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-physicaleducation-3456-5|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-physicaleducation-3456-5|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-physicaleducation-3456-5|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-physicaleducation-3456-5|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-physicaleducation-3456-5|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-physicaleducation-3456-5|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-languages-3456-1|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-languages-3456-1|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-languages-3456-1|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-languages-3456-1|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-languages-3456-1|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-languages-3456-1|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-languages-3456-1|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-languages-3456-1|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-languages-3456-3|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-languages-3456-3|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-languages-3456-3|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-languages-3456-3|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-languages-3456-3|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-languages-3456-3|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-languages-3456-3|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-languages-3456-3|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-languages-3456-4|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-languages-3456-4|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-languages-3456-4|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-languages-3456-4|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-languages-3456-4|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-languages-3456-4|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-languages-3456-4|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-languages-3456-4|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-religiouseducation-3456-3|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-religiouseducation-3456-3|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-religiouseducation-3456-3|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-religiouseducation-3456-3|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-religiouseducation-3456-3|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-religiouseducation-3456-3|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-religiouseducation-3456-3|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-religiouseducation-3456-3|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-psherelationships-3456-4|3",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-psherelationships-3456-4|3",
+      "message": "No mapped built-in teaching is available for Year 3 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-psherelationships-3456-4|4",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-psherelationships-3456-4|4",
+      "message": "No mapped built-in teaching is available for Year 4 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-psherelationships-3456-4|5",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-psherelationships-3456-4|5",
+      "message": "No mapped built-in teaching is available for Year 5 in this group."
+    },
+    {
+      "id": "YEAR_MAPPING:framework-psherelationships-3456-4|6",
+      "severity": "gap",
+      "code": "YEAR_MAPPING",
+      "entity": "framework-psherelationships-3456-4|6",
+      "message": "No mapped built-in teaching is available for Year 6 in this group."
+    },
+    {
+      "id": "LINK_AVAILABILITY:links",
+      "severity": "review",
+      "code": "LINK_AVAILABILITY",
+      "entity": "links",
+      "message": "URL format is checked. Live availability, redirects, access and external content accuracy are not tested by this offline checker."
+    },
+    {
+      "id": "INVENTORY_UNVERIFIED:scope",
+      "severity": "gap",
+      "code": "INVENTORY_UNVERIFIED",
+      "entity": "scope",
+      "message": "This grouped catalogue is not an independently verified list of every statutory objective. No full-curriculum certificate can be issued."
+    },
+    {
+      "id": "SCHOOL_SEQUENCE:scope",
+      "severity": "gap",
+      "code": "SCHOOL_SEQUENCE",
+      "entity": "scope",
+      "message": "School topic order, books, foreign language, RE and practical provision need confirmation."
+    }
+  ],
+  "limits": [
+    "Not an AI or expert semantic assessor.",
+    "Cannot discover unknown omissions outside its catalogue.",
+    "Does not run browser, installation or live-link tests.",
+    "Does not certify English B2, Life in the UK readiness or entrance admission."
+  ]
+}
